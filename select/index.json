@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "House On Fire",
+  "base_artist": "Mimi Webb",
+  "createdAt": "2026-03-12T05:30:00.938955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "House on Fire (Radio Mix)",
+      "artist": "Robin Schulz feat. Me & My Monkey",
+      "has_synced": false,
+      "path": "select/01_House_on_Fire_(Radio_Mix)_Robin_Schulz_feat._Me_&_My_Monkey.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "House on Fire (Radio Mix)",
+      "artist": "Robin Schulz, ME & My Monkey",
+      "has_synced": true,
+      "path": "select/02_House_on_Fire_(Radio_Mix)_Robin_Schulz,_ME_&_My_Monkey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "House on Fire",
+      "artist": "Treat",
+      "has_synced": true,
+      "path": "select/03_House_on_Fire_Treat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/04_House_On_Fire_Sia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "House on Fire",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/05_House_on_Fire_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/06_House_On_Fire_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "The Boomtown Rats",
+      "has_synced": false,
+      "path": "select/07_House_On_Fire_The_Boomtown_Rats.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/08_House_On_Fire_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "House on Fire (RU Ready mix)",
+      "artist": "Arkarna",
+      "has_synced": false,
+      "path": "select/09_House_on_Fire_(RU_Ready_mix)_Arkarna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "House on Fire",
+      "artist": "Robin Schulz feat. Me & My Monkey",
+      "has_synced": false,
+      "path": "select/10_House_on_Fire_Robin_Schulz_feat._Me_&_My_Monkey.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "House on Fire",
+      "artist": "Robin Schulz & Me & My Monkey",
+      "has_synced": false,
+      "path": "select/11_House_on_Fire_Robin_Schulz_&_Me_&_My_Monkey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "House on Fire",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": true,
+      "path": "select/12_House_on_Fire_Fitz_and_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Fitz & The Tantrums",
+      "has_synced": true,
+      "path": "select/13_House_On_Fire_Fitz_&_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "House on Fire",
+      "artist": "The Menzingers",
+      "has_synced": true,
+      "path": "select/14_House_on_Fire_The_Menzingers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/15_House_On_Fire_Sia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Kansas",
+      "has_synced": false,
+      "path": "select/16_House_On_Fire_Kansas.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/17_House_On_Fire_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "House On Fire (Ghost Note Symphonies)",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/18_House_On_Fire_(Ghost_Note_Symphonies)_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "House On Fire",
+      "artist": "Arkarna",
+      "has_synced": false,
+      "path": "select/19_House_On_Fire_Arkarna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "House On Fire",
+      "artist": "Mimi Webb",
+      "has_synced": false,
+      "path": "select/pl_01_House_On_Fire_Mimi_Webb.txt"
+    }
+  ]
+}
